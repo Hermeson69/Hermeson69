@@ -1,8 +1,12 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=33CCCC&height=120&section=header"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=33CCCC&height=120&section=header"/>
+</div>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=33CCCC&size=35&center=true&vCenter=true&width=1000&lines=Hermeson69;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=33CCCC&size=35&center=true&vCenter=true&width=1000&lines=Hermeson69;Be+Welcome!+:%29)](https://git.io/typing-svg)
+</div>
 
 <!-- GitHub Activity Graph -->
 <div align="center"> 
@@ -22,12 +26,12 @@
 </div>
 
 <!-- Content -->
-<div style="text-align: center; align="center">
+<div align="center">
   <table style="border-collapse: collapse; margin: auto;">
     <tr>
       <td style="border: none;">
         <!-- Image -->
-        <img src="https://github.com/hermeson69/Programas/assets/161073600/9704b071-00dc-4a9d-8919-b595abfea1a2" style="width: 400px; height: auto;" alt="gif">
+        <img src="https://github.com/hermeson69/Programas/blob/master/assets/161073600/9704b071-00dc-4a9d-8919-b595abfea1a2.gif?raw=true" style="width: 400px; height: auto;" alt="gif">
       </td>
       <td style="border: none;">
         <!-- GitHub Stats -->
@@ -68,4 +72,6 @@
 </div>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=33CCCC&height=120&section=footer"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=33CCCC&height=120&section=footer"/>
+</div>
