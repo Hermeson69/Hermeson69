@@ -41,9 +41,10 @@
 
 <div align="center">
   <h3>Studying in this moment:</h3>
-   <img src="https://github.com/Hermeson69/Programas/assets/161073600/c5d70725-718e-4c45-9657-19e28cd8c101" width=50px>
-  <img src="https://github.com/Hermeson69/Programas/assets/161073600/1b399f6e-3576-4679-b601-40cc47fb1bdb" width=36px>
-    <img src="https://github.com/Hermeson69/Programas/assets/161073600/89dcd8ec-7a72-4046-a361-140018fdd271" width=37px>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50px alt="HTML">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50px alt="CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50px alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=50px alt="C">
 </div>
 
 <div align="center">
