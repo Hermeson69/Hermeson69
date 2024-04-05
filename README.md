@@ -22,7 +22,7 @@
 </div>
 
 <!-- Content -->
-<div style="text-align: center;">
+<div style="text-align: center; align="center">
   <table style="border-collapse: collapse; margin: auto;">
     <tr>
       <td style="border: none;">
