@@ -9,8 +9,8 @@
 
 <div align="center">
   <h3>Main skills:</h3>
-  <img src="https://github.com/MarcosWillianAP1K/Programas/assets/161073600/c5d70725-718e-4c45-9657-19e28cd8c101" width=50px>
-  <img src="https://github.com/MarcosWillianAP1K/Programas/assets/161073600/1b399f6e-3576-4679-b601-40cc47fb1bdb" width=36px>
+  <img src="https://github.com/Hermeson69/Programas/assets/161073600/c5d70725-718e-4c45-9657-19e28cd8c101" width=50px>
+  <img src="https://github.com/Hermeson69/Programas/assets/161073600/1b399f6e-3576-4679-b601-40cc47fb1bdb" width=36px>
 
 </div>
 
