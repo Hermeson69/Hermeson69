@@ -44,6 +44,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Hermeson69/Hermeson69/output/snake.svg" alt="Snake animation" />
 
 ###
