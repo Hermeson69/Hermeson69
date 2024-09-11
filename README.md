@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://th.bing.com/th/id/R.ef09c61c787f308466488f8aeabb7ab1?rik=3tWIh6tA5%2fvkzg&pid=ImgRaw&r=0)](https://66.media.tumblr.com/306f5f99679539f16da869ef187f5699/tumblr_p1dyscS7rC1rqe0rbo1_500.gif)](https://66.media.tumblr.com/306f5f99679539f16da869ef187f5699/tumblr_p1dyscS7rC1rqe0rbo1_500.gif)"  />
+<img align="right" height="150" src="https://66.media.tumblr.com/306f5f99679539f16da869ef187f5699/tumblr_p1dyscS7rC1rqe0rbo1_500.gif"  />
 
 ###
 
