@@ -1,68 +1,49 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33CCCC&height=120&section=header"/>
+<h2 align="left">Hi 👋! My name is Hermeson Alves and I'm a Programmer, from Brazil</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=33CCCC&size=35&center=true&vCenter=true&width=1000&lines=Hermeson69;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center"> 
-  
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hermeson69&bg_color=0d1117&color=33CCCC&line=33CCCC&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+###
 
 <div align="center">
-  <h3>Main skills:</h3>
-  <img src="https://github.com/MarcosWillianAP1K/Programas/assets/161073600/c5d70725-718e-4c45-9657-19e28cd8c101" width=50px>
-  <img src="https://github.com/MarcosWillianAP1K/Programas/assets/161073600/1b399f6e-3576-4679-b601-40cc47fb1bdb" width=36px>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Hermeson69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hermeson69&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<div style="text-align: center;">
-  <table style="border-collapse: collapse; margin: auto;">
-    <tr>
-      <td style="border: none;">
-        <!-- Imagem -->
-         <img src="https://github.com/MarcosWillianAP1K/Programas/assets/161073600/9704b071-00dc-4a9d-8919-b595abfea1a2" style="width: 400px; height: auto;" alt="gif">
-      </td>
-      <td style="border: none;">
-        <!-- Estatísticas do GitHub -->
-        <div align="center">
-          <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hermeson69&show_icons=true&count_private=true&hide_border=true&title_color=33CCCC&icon_color=33CCCC&text_color=c9d1d9&bg_color=0d1117" alt="Walison Weudes github stats" />
-        </div>
-        <!-- Linguagens Principais -->
-        <div align="center">
-          <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermeson69&layout=compact&hide_border=true&title_color=33CCCC&text_color=33CCCC&bg_color=0d1117" />
-        </div>
-      </td>
-    </tr>
-  </table>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
- 
+###
 
-<div align="center">
-  <h3>Studying in this moment:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50px alt="HTML">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width
-=50px alt="CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50px alt="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=50px alt="C">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=50px alt="PHP">
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hermeson69&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=33CCCC&text_color=ffffff&bg_color=0d1117" alt="Wakatime Stats" />
-</div>
+###
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Hermeson69}/count.svg" /></p> 
-  <br>
-</div>
-
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33CCCC&height=120&section=footer"/>
+###
