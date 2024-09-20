@@ -53,15 +53,18 @@ h2>
 </div>
 
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hermeson69/Hermeson69/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hermeson69/Hermeson69/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hermeson69/Hermeson69/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div align="center">
   <br>
   <p align="center"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Hermeson69}/count.svg" /></p> 
   <br>
 </div>
-
-
-![snake gif](https://github.com/Hermeson69/Hermeson69/blob/output/github-contribution-grid-snake.gif)
 
 
 
