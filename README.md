@@ -60,7 +60,9 @@ h2>
   <br>
 </div>
 
-![snake gif](https://github.com/Hermeson69/Hermeson69/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Hermeson69/Hermeson69/blob/output/github-contribution-grid-snake-dark.gif)
+
+
 
 
 
