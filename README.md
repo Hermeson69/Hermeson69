@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hermeson Alves and I'm a Programmer, from Brazil</
+<h2 align="left">Hi 👋! My name is Hermeson Alves and I'm a Full-Stack Programmer, from Brazil</
 h2>
 
 ###
