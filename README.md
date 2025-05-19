@@ -16,6 +16,7 @@ h2>
 ###
 
 <div align="left">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -50,10 +51,7 @@ h2>
 </div>
 
 
-<picture align="center">
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Hermeson69/Hermeson69/output/dist/github-contribution-grid-snake.svg)
-![GitHub Contribution Snake (Dark)](https://raw.githubusercontent.com/Hermeson69/Hermeson69/output/dist/github-contribution-grid-snake-dark.svg)
-</picture>
+
 
 <div align="center">
   <br>
