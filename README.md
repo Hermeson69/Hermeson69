@@ -52,8 +52,8 @@ h2>
 
 <picture align="center">
  ## Contribution Snake
-![GitHub Contribution Snake](https://raw.githubusercontent.com/<Hermeson69>/<Hermeson69>/output/dist/github-contribution-grid-snake.svg)
-![GitHub Contribution Snake (Dark)](https://raw.githubusercontent.com/<Hermeson69>/<Hermeson69>/output/dist/github-contribution-grid-snake-dark.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Hermeson69/Hermeson69/output/dist/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake (Dark)](https://raw.githubusercontent.com/Hermeson69/Hermeson69/output/dist/github-contribution-grid-snake-dark.svg)
 </picture>
 
 <div align="center">
