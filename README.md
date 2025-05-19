@@ -51,9 +51,9 @@ h2>
 
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hermeson69/Hermeson69/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hermeson69/Hermeson69/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hermeson69/Hermeson69/output/github-contribution-grid-snake.svg">
+ ## Contribution Snake
+![GitHub Contribution Snake](https://raw.githubusercontent.com/<Hermeson69>/<Hermeson69>/output/dist/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake (Dark)](https://raw.githubusercontent.com/<Hermeson69>/<Hermeson69>/output/dist/github-contribution-grid-snake-dark.svg)
 </picture>
 
 <div align="center">
