@@ -50,9 +50,10 @@ h2>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hermeson69&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=33CCCC&text_color=ffffff&bg_color=0d1117" alt="Wakatime Stats" />
 </div>
 
-<div align="center">
-<img src="https://wakatime.com/badge/user/018eafbf-3ec2-4a22-b30b-f38315e899ca.svg" alt="Total time coded since Apr 5 2024" />
+<div align="center" style="margin-top: 30;">
+  <img src="https://wakatime.com/badge/user/018eafbf-3ec2-4a22-b30b-f38315e899ca.svg" alt="Total time coded since Apr 5 2024" />
 </div>
+
 
 
 
