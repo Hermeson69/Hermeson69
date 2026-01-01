@@ -1,70 +1,40 @@
-<h1 align="center">👋 Hi, I'm Hermeson Alves</h1>
-<h3 align="center">Full-Stack Developer • Brazil 🇧🇷</h3>
-
+<h2 align="left">Hi, Hermeson A. here.</h2>
 ---
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%" valign="top">
-
-## 🧑‍💻 About Me
-- 💻 Full-Stack Programmer  
-- 📚 Focus on **TypeScript, React, Next.js & Backend**
-- 🚀 Always building and learning new things  
-
----
-
-## 🛠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,python,figma" />
-</p>
-
----
-
-## 🔗 Social
-<p>
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<table>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><strong>Name:</strong> Hermeson Alves</li>
+        <li><strong>Education:</strong> Full-Stack developer</li>
+        <li>Currently learning Web Development with a focus on JavaScript/TypeScript and React,.</li>
+      </ul>
+      <h4><ins>Coding:</ins></h4>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="28" title="TypeScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="28" title="JavaScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28" title="React" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="28" title="Next.js" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="28" title="Tailwind CSS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="28" title="Node.js" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="28" title="Express" style="background-color: white; border-radius: 50%;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" title="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="28" title="Figma" />
+      </p>
+      <div align="left" style="margin-top: 20px;">
+        <a href="mailto:Hermesonalves256@gmail.com"><img src="https://img.shields.io/badge/Gmail-923331?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-923331?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+       <a href="https://discord.com/users/hermesonalvesdeoliveira">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/55XXXXXXXXX">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
+      </div>
+    </td>
+    <td>
+      <img src="https://images4.alphacoders.com/127/1277340.jpg" width="400" alt="Michael Kaiser - Blue Lock">
+    </td>
+  </tr>
+</table>
 
-      </td>
-
-      <td width="40%" align="center">
-        <img
-          src="https://media.tenor.com/1bW7YxYzQnAAAAAC/kaiser-blue-lock.gif"
-          alt="Michael Kaiser - Blue Lock"
-          width="100%"
-        />
-      </td>
-    </tr>
-  </table>
+<div align="center" style="margin-top: 30px;">
+  <img src="https://media1.tenor.com/m/ks3E9sw1-goAAAAC/michael-kaiser-kaiser.gif" width="200" alt="Michael Kaiser GIF">
+  <p style="font-size: 12px; color: #888;">Coding is all you need.</p>
 </div>
-
----
-
-<!-- <div align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Hermeson69&layout=compact&theme=dracula"
-    height="150"
-  />
-</div> -->
-
----
-
-<div align="center">
-  <img src="https://wakatime.com/badge/user/018eafbf-3ec2-4a22-b30b-f38315e899ca.svg" />
-</div>
-
----
-
-<p align="center">
-  <i>Code. Train. Dominate. ⚽🔥</i>
-</p>
