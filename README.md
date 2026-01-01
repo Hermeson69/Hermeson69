@@ -1,47 +1,63 @@
-<h1 align="center">Hi 👋! My name is Hermeson Alves and I'm a Full-Stack Programmer, from Brazil</h1>
+<h1 align="center">👋 Hi, I'm Hermeson Alves</h1>
+<h3 align="center">Full-Stack Developer • Brazil 🇧🇷</h3>
 
-###
-
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-</div>
-
-###
+---
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <table>
+    <tr>
+      <td width="60%" valign="top">
+
+### 👨‍💻 About Me
+- 💻 Full-Stack Programmer  
+- 📚 Focus on **TypeScript, React, Next.js & Backend**
+- 🚀 Always building and learning new things
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,python,figma" />
+</p>
+
+### 🔗 Social
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/55XXXXXXXXX">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+      </td>
+
+      <td width="40%" align="center">
+        <img 
+          src="https://media.tenor.com/1bW7YxYzQnAAAAAC/kaiser-blue-lock.gif" 
+          alt="Michael Kaiser - Blue Lock"
+          width="100%"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+---
 
- <div align="center">
-   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Hermeson69&layout=compact&theme=dracula" /> 
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Hermeson69&layout=compact&theme=dracula" />
 </div>
 
+---
 
-
-###
-
-<div align="center" style="margin-top: 30;">
-  <img src="https://wakatime.com/badge/user/018eafbf-3ec2-4a22-b30b-f38315e899ca.svg" alt="Total time coded since Apr 5 2024" />
+<div align="center">
+  <img src="https://wakatime.com/badge/user/018eafbf-3ec2-4a22-b30b-f38315e899ca.svg" />
 </div>
 
-###
+---
+
+<p align="center">
+  <i>Code. Train. Dominate. ⚽🔥</i>
+</p>
