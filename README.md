@@ -29,7 +29,7 @@
       </div>
     </td>
     <td>
-      <img src="https://images4.alphacoders.com/127/1277340.jpg" width="400" alt="Michael Kaiser - Blue Lock">
+      <img src="https://www.reddit.com/r/BlueLock/comments/198nqq5/kaiser_is_probably_the_most_tragic_character/?tl=pt-br" width="400" alt="Michael Kaiser - Blue Lock">
     </td>
   </tr>
 </table>
