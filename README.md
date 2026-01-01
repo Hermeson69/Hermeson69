@@ -8,19 +8,23 @@
     <tr>
       <td width="60%" valign="top">
 
-### 👨‍💻 About Me
+## 🧑‍💻 About Me
 - 💻 Full-Stack Programmer  
 - 📚 Focus on **TypeScript, React, Next.js & Backend**
-- 🚀 Always building and learning new things
+- 🚀 Always building and learning new things  
 
-### 🛠 Tech Stack
-<p align="left">
+---
+
+## 🛠 Tech Stack
+<p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,python,figma" />
 </p>
 
-### 🔗 Social
-<p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+---
+
+## 🔗 Social
+<p>
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:seuemail@gmail.com">
@@ -34,8 +38,8 @@
       </td>
 
       <td width="40%" align="center">
-        <img 
-          src="https://media.tenor.com/1bW7YxYzQnAAAAAC/kaiser-blue-lock.gif" 
+        <img
+          src="https://media.tenor.com/1bW7YxYzQnAAAAAC/kaiser-blue-lock.gif"
           alt="Michael Kaiser - Blue Lock"
           width="100%"
         />
@@ -46,9 +50,12 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Hermeson69&layout=compact&theme=dracula" />
-</div>
+<!-- <div align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Hermeson69&layout=compact&theme=dracula"
+    height="150"
+  />
+</div> -->
 
 ---
 
