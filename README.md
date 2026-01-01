@@ -29,7 +29,7 @@
       </div>
     </td>
     <td>
-     <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2023/12/blue-lock-chapter-207-kaiser.jpg?q=70&fit=crop&w=825&dpr=1" width="400" alt="Michael Kaiser - Blue Lock (manga panel)">
+     <img src="https://www.facebook.com/midfield.seishiro/posts/michael-kaiser-manga-icons-spoiler-the-past-part-of-him-as-a-young-boy-/1293855342252651/" width="400" height="400" alt="Michael Kaiser - Blue Lock (manga panel)">
     </td>
   </tr>
 </table>
