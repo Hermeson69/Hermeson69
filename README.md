@@ -29,7 +29,7 @@
       </div>
     </td>
     <td>
-     <img src="https://preview.redd.it/kaiser-is-probably-the-most-tragic-character-in-the-entire-v0-9zq2k0ojc1dc1.jpeg?width=1080&crop=smart&auto=webp&s=8b5d5f0a9e0b0b7a5f0b0e0f0a0b0c0d0e0f0a0b" width="400" alt="Michael Kaiser - Blue Lock">
+     <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2023/12/blue-lock-chapter-207-kaiser.jpg?q=70&fit=crop&w=825&dpr=1" width="400" alt="Michael Kaiser - Blue Lock (manga panel)">
     </td>
   </tr>
 </table>
