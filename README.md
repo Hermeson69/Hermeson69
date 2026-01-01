@@ -32,8 +32,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hermeson69&layout=compact&theme=dracula&cache_seconds=1800" height="150" />
+ <div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Hermeson69&layout=compact&theme=dracula" />
 </div>
 
 
