@@ -29,7 +29,7 @@
       </div>
     </td>
     <td>
-      <img src="https://www.reddit.com/r/BlueLock/comments/198nqq5/kaiser_is_probably_the_most_tragic_character/?tl=pt-br" width="400" alt="Michael Kaiser - Blue Lock">
+     <img src="https://preview.redd.it/kaiser-is-probably-the-most-tragic-character-in-the-entire-v0-9zq2k0ojc1dc1.jpeg?width=1080&crop=smart&auto=webp&s=8b5d5f0a9e0b0b7a5f0b0e0f0a0b0c0d0e0f0a0b" width="400" alt="Michael Kaiser - Blue Lock">
     </td>
   </tr>
 </table>
