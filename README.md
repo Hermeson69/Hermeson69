@@ -33,8 +33,7 @@
 ###
 
  <div align="center">
-   <img src="https://github.com/lowlighter/metrics/blob/master/metrics.plugin.languages.svg" />
-  <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Hermeson69&layout=compact&theme=dracula" /> -->
+   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Hermeson69&layout=compact&theme=dracula" /> 
 </div>
 
 
