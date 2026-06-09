@@ -7,7 +7,6 @@
 
   **Full Stack Developer** focused on React / TypeScript / Node.js with 4+ years of experience building web and mobile applications.
  
--  Front-end contractor at **MutatisIA** — Brazilian legal AI SaaS
 -  B.Sc. Information Systems · **UFPI CSHNB** *(2022 – 2027)*
 -  Researcher — VNE optimization for 5G/6G networks
 -  Tauá, CE — Brazil
@@ -42,7 +41,7 @@
  
 **Certifications:**
  
-<img src="/images/aws-academy-graduate-cloud-foundations-training-bad.png" width="80" alt="AWS Academy — Cloud Foundations"/>
+<img src="/images/aws-academy-graduate-cloud-foundations-training-bad.png" width="100" alt="AWS Academy — Cloud Foundations"/>
 
 
 <div align="center">
