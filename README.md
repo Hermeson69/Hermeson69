@@ -11,6 +11,7 @@
 -  Researcher — VNE optimization for 5G/6G networks
 -  Tauá, CE — Brazil
 <br/>
+
 **Stack:**
  
 <p>
